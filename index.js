@@ -1,1 +1,1 @@
-console.log('Muhammad Mairaj :');
+console.log('Muhammad Mairaj');
